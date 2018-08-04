@@ -5,6 +5,8 @@
   - An inconsistent "personality"
   - Memes? Russian Memes!?
   - Code more appauling than a Paul brother
+  - Writes and reads .txt's instead of using global variables
+  - Has no comments at all (honestly, anyone should be able to understand it by just reading)
   - 5 Basic Command Types:
     - **RNG Based:** *Customizable Russian Roulette system and a basic roll command, fun to mess around with*
     - **Realtime-Check Based:** *Stuff like "Ctrl-F"ing a website, getting a YTvid and setting alarms*
