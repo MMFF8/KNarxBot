@@ -21,6 +21,10 @@ namespace Karl_Narx_V2
             await _client.StartAsync();
             _client.Ready += Timerer.StartTimer;
             await Task.Delay(-1);
+            using (StreamWriter newTask = new StreamWriter("Mode.txt", false))
+            {
+                newTask.WriteLine("Normal");
+            }
         }
     }
 }
