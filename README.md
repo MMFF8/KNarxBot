@@ -1,5 +1,5 @@
 # KNarxBot
-The Manifesto Manifested, Karl Narx is my first crack at a Discord bot.
+**The Manifesto Manifested, Karl Narx is my first crack at a Discord bot.**
 
 # Features
   - An inconsistent "personality"
@@ -12,7 +12,8 @@ The Manifesto Manifested, Karl Narx is my first crack at a Discord bot.
     - **Accent:** *This was made to prove a point, no more, no less... Stop looking at me like that!*
     - **Miscellaneous:** *They don't really do anything, practically just memes.*
  
- # ~~Planned~~ (lmao, as if I'll ever get around to these)
+ # ~~Planned~~ 
+ **(lmao, as if I'll ever get around to these)**
   - Tic Tac Toe
   - Constantly running "Communist Speak" translator
   - Scorched earth tactics
