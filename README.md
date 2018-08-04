@@ -12,7 +12,7 @@
     - **Accent:** *This was made to prove a point, no more, no less... Stop looking at me like that!*
     - **Miscellaneous:** *They don't really do anything, practically just memes.*
  
- # ~~Planned~~ 
+ # ~~Planned Features~~ 
  **(lmao, as if I'll ever get around to these)**
   - Tic Tac Toe
   - Constantly running "Communist Speak" translator
